@@ -3,7 +3,7 @@
     "id": "979851021027",
     "restype": "watchface",
     "name": "Rainbow（支持相册编辑）",
-    "description": "一个多样式的表盘",
+    "description": "一个多样式相册的表盘",
     "preview": [
       "media/画板 11.webp",
       "media/画板 12.webp",
@@ -43,8 +43,8 @@
       "file_name": "downloads/Rainbow r6.bin"
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/Rainbow 10p.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/Rainbow 10p1.bin"
     },
     "xmb10": {
       "version": "1.0.0",
@@ -55,8 +55,8 @@
       "file_name": "downloads/Rainbow 环10.bin"
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/Rainbow 9p.bin"
+      "version": "1.0.1",
+      "file_name": "downloads/Rainbow 9p1.bin"
     }
   },
   "ext": {
