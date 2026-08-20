@@ -22,7 +22,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "欢迎来爱发电赞助我，谢谢！",
+      "url": "https://www.bandbbs.cn/threads/28266/",
+      "icon": "Link"
+    }
+  ],
   "downloads": {
     "xmrw5": {
       "version": "1.0.0",
@@ -53,5 +59,7 @@
       "file_name": "downloads/Rainbow 9p.bin"
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
