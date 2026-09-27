@@ -3,7 +3,7 @@
     "id": "979851021027",
     "restype": "watchface",
     "name": "Rainbow",
-    "description": "一个多样式相册的表盘",
+    "description": "像彩虹一样多彩！\n这是一个支持相册的多样式表盘\n希望你会喜欢！",
     "preview": [
       "media/画板 11.webp",
       "media/画板 12.webp",
@@ -24,9 +24,14 @@
   },
   "links": [
     {
-      "title": "欢迎来爱发电赞助我，谢谢！",
+      "title": "赞助一下？",
       "url": "https://www.ifdian.net/a/zzz78",
-      "icon": "LinkSimple"
+      "icon": "link-simple"
+    },
+    {
+      "title": "欢迎加入我们的qq群聊",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=pNK/FJsB/KiNt71Sm4/SG31XM12pPXolY/m26j4HAHobJlL3/NPNNzBEEF3bJ4V8&busi_data=eyJncm91cENvZGUiOiIxMjkzODIwMDkiLCJ0b2tlbiI6IjMwckUyM3NiWVhPendYWDJ6K0QyM016YjBveURwZjl3SkUzYU0xWUpweGZ1OXM1Tm14VlpZMzZMbm43cHZYa2wiLCJ1aW4iOiI0NjI4NDc1MjQifQ==&data=5LXSUq35JmTXxCOXiDqSKRJqIbUBWW68y6QXMrfuwLt7MRA9HsZhunrojgmxxTtGeoJI5W3nuiRyNOS0WHdICA&svctype=4&tempid=h5_group_info",
+      "icon": "chat-circle"
     }
   ],
   "downloads": {
