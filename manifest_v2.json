@@ -64,7 +64,5 @@
       "file_name": "downloads/Rainbow 9p1.0.2.bin"
     }
   },
-  "ext": {
-    "enableAstroBoxCreatorFeatures": true
-  }
+  "ext": {}
 }
